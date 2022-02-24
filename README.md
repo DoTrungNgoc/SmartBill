@@ -1,3 +1,3 @@
 # SmartBill (TOLBill)
 
-[![Watch the video](https://youtu.be/Kzx5nc0PeEg)
+[![Watch the video](https://www.youtube.com/watch?v=Kzx5nc0PeEg)
